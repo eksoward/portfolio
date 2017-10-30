@@ -4,7 +4,7 @@ This is a central location to find my career credentials, in various formats.
 
 ## PDF Resume
 
-For my latest PDF resume:
+For my latest PDF resume [click here.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
 
 ## Looking to work together? 
 
