@@ -4,7 +4,7 @@ This is a central location to find my career credentials, in various formats.
 
 ## What are my strengths? 
 
-- Finding problems in code
+- Finding problems AND problem sources in code
 - Speaking to non-technical audiences
 - Collaborations
 - Asking the right questions
@@ -16,6 +16,7 @@ This is a central location to find my career credentials, in various formats.
 ## How about weaknesses?
 
 - When I get excited about a project I live life on -v
+- Code hoarding; idea hoarding--my office looks like a paper bomb went off
 - I tend to prefer to build towards tools rather than one-offs 
 
 ## PDF Resume
