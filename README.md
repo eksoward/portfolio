@@ -2,6 +2,16 @@
 
 This is a central location to find my career credentials, in various formats. 
 
+
+## PDF Resume
+
+For my latest PDF resume [click here.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
+
+## Looking to work together? 
+
+For recruiter or other inquiries please [email me at this link.](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Looking%20to%20collaborate)
+
+
 ## What are my strengths? 
 
 - Finding problems AND problem sources in code
@@ -13,17 +23,11 @@ This is a central location to find my career credentials, in various formats.
 - Tech evangelism
 - I tend to prefer to build towards tools rather than one-offs 
 
+
 ## How about weaknesses?
 
 - When I get excited about a project I live life on -v
 - Code hoarding; idea hoarding--my office looks like a paper bomb went off
 - I tend to prefer to build towards tools rather than one-offs 
 
-## PDF Resume
-
-For my latest PDF resume [click here.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
-
-## Looking to work together? 
-
-For recruiter or other inquiries please [email me at this link.](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Looking%20to%20collaborate)
 
