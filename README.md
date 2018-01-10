@@ -7,6 +7,15 @@ This is a central location to find my career credentials, in various formats.
 
 For my latest PDF resume [click here.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
 
+## Special Interests
+
+- Legacy system analysis and opportunistic refactoring especially in complex enterprise AI systems
+- Human factors analysis and risk management for data products
+- Documentation generation
+- Novel feature development
+- Collaboration with stakeholders at all levels
+
+
 ## Looking to work together? 
 
 For recruiter or other inquiries please [email me at this link.](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Looking%20to%20collaborate)
