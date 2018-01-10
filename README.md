@@ -39,4 +39,8 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 - Code hoarding; idea hoarding--my office looks like a paper bomb went off
 - I tend to prefer to build towards tools rather than one-offs 
 
+## Affiliations and Communities
 
+- [Write The Docs](http://www.writethedocs.org/)
+- PyLadies PDX
+- IEEE Signal Processing Society
