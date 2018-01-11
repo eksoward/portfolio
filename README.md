@@ -47,7 +47,6 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 
 ## Talks, Conferences, and Publications
 
-- [International Conference On Language Documentation and Conservation 2017](https://scholarspace.manoa.hawaii.edu/bitstream/10125/42036/1/42036.pdf)
+- ["Challenges in creating speech recognition for endangered language CALL: A Chickasaw case study." International Conference On Language Documentation and Conservation 2017](https://scholarspace.manoa.hawaii.edu/bitstream/10125/42036/1/42036.pdf)
 - [SpeechTek 2017 (Invited, not given; please reach out for details)](http://www.speechtek.com/2017/Wednesday.aspx#session_10626)
 - [Write The Docs Portland 2018 (submitted; awaiting decision)]
-
