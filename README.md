@@ -44,3 +44,8 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 - [Write The Docs](http://www.writethedocs.org/)
 - PyLadies PDX
 - IEEE Signal Processing Society
+
+## Talks, Conferences, and Publications
+
+- [SpeechTek 2017 (Invited)](http://www.speechtek.com/2017/Wednesday.aspx#session_10626)
+
