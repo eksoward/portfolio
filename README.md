@@ -14,6 +14,7 @@ For my latest PDF resume [click here.](https://github.com/eksoward/resume/blob/m
 - Documentation generation
 - Novel feature development
 - Collaboration with stakeholders at all levels
+- International team and project engineering coordination
 
 
 ## Looking to work together? 
