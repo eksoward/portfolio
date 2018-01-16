@@ -43,6 +43,7 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 ## Affiliations and Communities
 
 - [Write The Docs](http://www.writethedocs.org/)
+- [PDX WIT (Women in Tech)](http://www.pdxwit.org/)
 - PyLadies PDX
 - IEEE Signal Processing Society
 
