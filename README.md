@@ -1,7 +1,8 @@
-# resume
+# portfolio
 
-This is a central location to find my career credentials, in various formats. 
+This is a central location to find my career credentials and work samples, in various formats. 
 
+This repo is under active construction; please [email me](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Requesting%20Credentials) for information about my work history beyond what is here already.
 
 ## PDF Resume
 
