@@ -50,7 +50,7 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 
 ## Open Source and Community Projects
 
-### University of Oregon Wired Humanities Nahuatl Language Dictionary Project
+### Nahuatl Language Dictionary Project || University of Oregon Wired Humanities
 
 A digital dictionary with searchable information about the Nahuatl Language. I designed, wrote, and implemented a tool to automatically generate orthographic and phonological variants based on text analysis.
 
