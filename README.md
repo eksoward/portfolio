@@ -54,8 +54,8 @@ For recruiter or other inquiries please [email me at this link.](mailto:eksoward
 
 A digital dictionary with searchable information about the Nahuatl Language. I designed, wrote, and implemented a tool to automatically generate orthographic and phonological variants based on text analysis.
 
-[Dictionary direct link (seems to be in digital decay)](http://whp.uoregon.edu/dictionaries/nahuatl/)
-[Dictionary review on the language tech blog "The Polyglotist"](http://thepolyglotist.com/resources/learning-resources/oregon-university-nahuatl-dictionary/)
+- [Dictionary direct link (seems to be in digital decay)](http://whp.uoregon.edu/dictionaries/nahuatl/)
+- [Dictionary review on the language tech blog "The Polyglotist"](http://thepolyglotist.com/resources/learning-resources/oregon-university-nahuatl-dictionary/)
 
 
 ## Talks, Conferences, and Publications
