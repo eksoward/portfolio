@@ -70,6 +70,7 @@ A digital dictionary with searchable information about the Nahuatl Language. I d
 ### Meetups and Pop-Science
 
 - 2013 || [eu:sci Magazine](https://docs.google.com/document/d/1Cz3Q20dwpZVB-q2jp2bdIlr969fpolj_g2olkBxcvI4/edit?usp=sharing)
+- August 2013 || “Text-to-Speech Synthesis: What is it, what can we do with it, and where is it going?” Presentation and demonstration of the findings of my Master's thesis work to a general audience at the Edinburgh TechMeetup.
 
 
 ## Looking to work together? 
