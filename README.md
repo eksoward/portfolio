@@ -44,10 +44,20 @@ For my latest general-purpose PDF resume [click here.](https://github.com/eksowa
 
 ### Nahuatl Language Dictionary Project || University of Oregon Wired Humanities
 
-A digital dictionary with searchable information about the Nahuatl Language. I designed, wrote, and implemented a tool to automatically generate orthographic and phonological variants based on text analysis.
+A digital dictionary with searchable information about the Nahuatl Language. 
+
+I designed, wrote, and implemented a tool to automatically generate orthographic and IPA phonological variants based on text analysis and phonotactic constraints.
 
 - [Dictionary direct link (seems to be in digital decay)](http://whp.uoregon.edu/dictionaries/nahuatl/)
 - [Dictionary review on the language tech blog "The Polyglotist"](http://thepolyglotist.com/resources/learning-resources/oregon-university-nahuatl-dictionary/)
+
+### Oregon Undergraduate Research Journal || University of Oregon
+
+An open-access double-blind peer-reviewed journal of undergraduate research at the University of Oregon.
+
+I served on the founding Editorial Board from 2011-2012. I managed and established standards and processes for web tools, collaboration technology, and I wrote documentation and policies, and provided tech support for author management, layout, and survey data collection analysis.
+
+- [Oregon Undergraduate Research Journal](http://journals.oregondigital.org/ourj)
 
 ## Affiliations and Communities
 
