@@ -4,6 +4,8 @@ This is a central location to find my career credentials and work samples, in va
 
 This repo is under active construction; please [email me](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Requesting%20Credentials) for information about my work history beyond what is here already.
 
+[Click here to jump to my latest general-purpose PDF resume.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
+
 ## Who am I?
 
 I am an extremely passionate engineer/scientist/linguist/nerd who works in the area of NLP. I got into this work because I delight in learning about, manipulating, and describing the structure, form, and meaning of natural languages and other symbolic systems. 
