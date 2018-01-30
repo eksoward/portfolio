@@ -4,6 +4,7 @@ This is a central location to find my career credentials and work samples, in va
 
 This repo is under active construction; please [email me](mailto:eksoward@gmail.com?subject=Found%20on%20github:%20Requesting%20Credentials) for information about my work history beyond what is here already.
 
+### PDF Resume
 [Click here to jump to my latest general-purpose PDF resume.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
 
 ## Who am I?
@@ -35,10 +36,6 @@ I am an extremely passionate engineer/scientist/linguist/nerd who works in the a
 - When I get excited about a project I live life on -v
 - Code hoarding; idea hoarding--my office looks like a paper bomb went off
 - I tend to prefer to build towards tools rather than one-offs 
-
-## PDF Resume
-
-For my latest general-purpose PDF resume [click here.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
 
 ## Open Source and Community Projects
 
