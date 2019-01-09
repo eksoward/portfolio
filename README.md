@@ -7,11 +7,11 @@ This repo is under active construction; please [email me](mailto:eksoward@gmail.
 ### PDF Resume
 [Click here to jump to my latest general-purpose PDF resume.](https://github.com/eksoward/resume/blob/master/docs/eksoward-resume.pdf)
 
-## Who am I?
+# Who am I?
 
 I am an extremely passionate engineer/scientist/linguist/nerd who works in the area of NLP. I got into this work because I delight in learning about, manipulating, and describing the structure, form, and meaning of natural languages and other symbolic systems. 
 
-### Special Career Interests
+## Special Career Interests
 
 - Legacy system analysis and opportunistic refactoring especially in complex enterprise AI systems
 - Human factors analysis and risk management for data products
@@ -20,7 +20,7 @@ I am an extremely passionate engineer/scientist/linguist/nerd who works in the a
 - Collaboration with stakeholders at all levels
 - International team and project engineering coordination
 
-### What are my strengths? 
+## What are my strengths? 
 
 - Finding problems AND problem sources in code
 - Speaking to non-technical audiences
@@ -31,15 +31,21 @@ I am an extremely passionate engineer/scientist/linguist/nerd who works in the a
 - Tech evangelism
 - I tend to prefer to build towards tools rather than one-offs 
 
-### How about weaknesses?
+## How about weaknesses?
 
 - When I get excited about a project I live life on -v
 - Code hoarding; idea hoarding--my office looks like a paper bomb went off
 - I tend to prefer to build towards tools rather than one-offs 
 
-## Open Source and Community Projects
+# Writing Samples
 
-### Nahuatl Language Dictionary Project || University of Oregon Wired Humanities
+## Review of the 2013 state-of-the-art and state-of-the-industry architectures and ML methods for data-driven waveform generation in Text to Speech systems
+
+[Click here to view and Download](https://github.com/eksoward/portfolio/blob/master/docs/eksoward_dataDrivenTTS_researchReview-2013.pdf)
+
+# Open Source and Community Projects
+
+## Nahuatl Language Dictionary Project || University of Oregon Wired Humanities
 
 A digital dictionary with searchable information about the Nahuatl Language. 
 
@@ -48,7 +54,7 @@ I designed, wrote, and implemented a tool to automatically generate orthographic
 - [Dictionary direct link (seems to be in digital decay)](http://whp.uoregon.edu/dictionaries/nahuatl/)
 - [Dictionary review on the language tech blog "The Polyglotist"](http://thepolyglotist.com/resources/learning-resources/oregon-university-nahuatl-dictionary/)
 
-### Oregon Undergraduate Research Journal || University of Oregon
+## Oregon Undergraduate Research Journal || University of Oregon
 
 An open-access double-blind peer-reviewed journal of undergraduate research at the University of Oregon.
 
@@ -78,6 +84,8 @@ I served on the founding Editorial Board from 2011-2012. I managed and establish
 
 - 2013 || [eu:sci Magazine](https://docs.google.com/document/d/1Cz3Q20dwpZVB-q2jp2bdIlr969fpolj_g2olkBxcvI4/edit?usp=sharing)
 - August 2013 || “Text-to-Speech Synthesis: What is it, what can we do with it, and where is it going?” Presentation and demonstration of the findings of my Master's thesis work to a general audience at the Edinburgh TechMeetup.
+
+
 
 
 ## Looking to work together? 
